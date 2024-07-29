@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tic-Tac-Toe Game
 
 A simple Tic-Tac-Toe game built using React. This project demonstrates basic concepts of React such as component-based architecture, state management, and event handling.
