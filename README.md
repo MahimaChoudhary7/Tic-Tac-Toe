@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tic-Tac-Toe Game
 
 A simple Tic-Tac-Toe game built using React. This project demonstrates basic concepts of React such as component-based architecture, state management, and event handling.
@@ -98,4 +97,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> b5947c3 (Initial commit)
+
