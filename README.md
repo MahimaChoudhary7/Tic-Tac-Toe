@@ -26,7 +26,7 @@ A simple Tic-Tac-Toe game built using React. This project demonstrates basic con
 * Square: A single square of the Tic-Tac-Toe board.
 * Board: The board consisting of 9 squares.
 * Game: The main component managing the game state and logic.
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
